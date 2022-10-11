@@ -1,0 +1,66 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "Linked list\n",
+    "\n",
+    "** After array, linked list is the second most used data structure **\n",
+    "\n",
+    "# Linked list \n",
+    "  - is a linear data structure \n",
+    "  - that includes a series of connected nodes. \n",
+    "    - (the nodes that are randomly stored in the memory\n",
+    "    \n",
+    "\n",
+    "# nodes    \n",
+    "  - contains two parts, i.e., \n",
+    "    - first is the data part and second is the address part. \n",
+    "  \n",
+    "  - last node of the list contains a pointer to the null.\n",
+    "\n",
+    "# Representation of Linked list\n",
+    "\n",
+    "  Linked list can be represented as \n",
+    "  - the connection of nodes \n",
+    "  - in which each node points to the next node of the list"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3.10.3 64-bit",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python",
+   "version": "3.10.3"
+  },
+  "orig_nbformat": 4,
+  "vscode": {
+   "interpreter": {
+    "hash": "26de051ba29f2982a8de78e945f0abaf191376122a1563185a90213a26c5da77"
+   }
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}

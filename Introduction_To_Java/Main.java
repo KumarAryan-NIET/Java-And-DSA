@@ -1,0 +1,8 @@
+package Introduction_To_Java;
+
+class Main{
+    public static void main(String[] args){
+        System.out.println(args[1]);
+    }
+    
+}
